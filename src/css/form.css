@@ -1,0 +1,29 @@
+form{
+  margin-top: 20px;
+}
+  label{
+  font-weight: 500;
+  margin:8px 10px 0px 0px;
+  background-color: rgb(105, 233, 190);
+  width: 100px;
+}
+table{
+  width: 100%;
+}
+tr,th{
+  background-color: rgb(220, 202, 226);
+  border: 1px solid gray;
+}
+td {
+  font-weight: 500;
+  color: rgb(52, 48, 48);
+  border: 1px solid gray;
+  background-color: rgb(204, 236, 114);
+}
+ul{
+  list-style: none;
+  margin: -25px 0px -15px 80px;
+}
+.radio{
+  margin: 10px;
+}
